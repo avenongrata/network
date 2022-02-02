@@ -1,2 +1,2 @@
 # network
-Set of files for working with the network
+Set of tools for working with the network
